@@ -18,9 +18,9 @@ Username: bandit0
 Password: bandit0
 
 **** hint ****
-the passwords of levels normally look like thsi :
+the passwords of levels normally look like this :
  "morVThKiC34YsxHJHOvyg66cXTRDjVuijcDTF" 
- 
+
 Once you log in, you’re inside a remote Linux machine as user bandit0.
 The whole point of Level 0 is:
 Learn how to use SSH to connect to a remote server.
